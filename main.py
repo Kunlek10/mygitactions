@@ -1,4 +1,4 @@
-'''some things are added'''
+"""some things are added"""
 def hello():  # add hello comment
     print("Hi")
 
